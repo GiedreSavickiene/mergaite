@@ -18,7 +18,8 @@ Design: [Mergaite](https://cdn.discordapp.com/attachments/850245533838868480/850
 -   Github pages
 -   CSS
 -   Image
+-   HTML
 
 ## Authors
 
-Rimantas: [Github](https://github.com/belauzas)
+Giedre: [Github](https://github.com/GiedreSavickiene/mergaite)
